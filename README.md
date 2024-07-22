@@ -37,4 +37,18 @@ To create an integrated travel package itinerary feature that enables users to b
 
 Elevator Pitch
 
-Imagine a seamless travel planning experience where you can book flights, hotels, and activities all in one go. Our new integrated travel package itinerary feature does just that. It combines flights, hotels, and activities into curated packages, simplifying the travel planning process for users. With an intuitive interface, customizable options, and seamless integration with our existing booking system, users can browse, personalize, and book entire trips effortlessly. This feature not only enhances convenience but also transforms the way people plan and enjoy their travel adventures. Get ready to revolutionize your travel experience with our all-in-one travel packages!![image](https://github.com/user-attachments/assets/59caaafa-5c44-437b-a76d-60c095e3bfca)
+Imagine a seamless travel planning experience where you can book flights, hotels, and activities all in one go. Our new integrated travel package itinerary feature does just that. It combines flights, hotels, and activities into curated packages, simplifying the travel planning process for users. With an intuitive interface, customizable options, and seamless integration with our existing booking system, users can browse, personalize, and book entire trips effortlessly. This feature not only enhances convenience but also transforms the way people plan and enjoy their travel adventures. Get ready to revolutionize your travel experience with our all-in-one travel packages!
+
+
+UserPreference and map 
+
+Project Overview:
+Tailored Travel is a cutting-edge travel package booking platform designed to revolutionize the way people plan and book their trips. By integrating flights, hotels, activities, and car rentals into customizable packages, Tailored Travel offers a seamless and highly personalized travel planning experience. The platform leverages user preferences, past bookings, and feedback to recommend tailored packages, while an interactive map feature allows users to effortlessly select their desired locations and services.
+Solution:
+Tailored Travel is an advanced travel package booking website that offers a seamless and personalized experience for travelers. The platform integrates flights, hotels, activities, and car rentals into customizable packages based on user preferences, previous bookings, and feedback. An interactive map feature allows users to effortlessly select hotels, activities, and cars near a specific location, automatically generating the best travel package for their needs.
+
+Elevator Pitch:
+"Imagine a travel booking experience that understands your unique preferences and past travel experiences. With Tailored Travel, we take the guesswork out of planning by offering personalized travel packages that include flights, hotels, activities, and car rentals. Our innovative interactive map lets you easily choose your desired locations and instantly creates the perfect travel package for you. Say goodbye to the hassle of travel planning and let Tailored Travel craft your next unforgettable journey."
+
+
+
