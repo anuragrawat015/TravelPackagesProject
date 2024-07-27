@@ -1,0 +1,67 @@
+{
+    "packageDetails": {
+        "packageId": 3,
+        "title": "Cultural Exploration of Paris",
+        "price": 1700,
+        "duration": "8 nights",
+        "description": "Discover the rich culture of Paris with museum passes and historical tours included.",
+        "flights": {
+            "departure": {
+                "airline": "United Airlines",
+                "flightNumber": "UA789",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T08:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-01T20:00:00"
+            },
+            "return": {
+                "airline": "United Airlines",
+                "flightNumber": "UA790",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-09T14:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-09T16:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Cultural Hotel Paris",
+                "address": "789 Culture St, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-05",
+                "roomType": "Standard Room",
+                "imageUrl": "https://example.com/images/culturalhotelparis.jpg"
+            },
+            {
+                "name": "Historic Hotel Paris",
+                "address": "123 History Ave, Paris, France",
+                "checkInDate": "2024-08-05",
+                "checkOutDate": "2024-08-09",
+                "roomType": "Historic Room",
+                "imageUrl": "https://example.com/images/historichotelparis.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "Europcar",
+            "carType": "Compact",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-09"
+        },
+        "activities": [
+            {
+                "name": "Notre-Dame Cathedral Visit",
+                "date": "2024-08-02",
+                "time": "10:00",
+                "description": "A guided tour of Notre-Dame Cathedral."
+            },
+            {
+                "name": "Montmartre Walking Tour",
+                "date": "2024-08-05",
+                "time": "14:00",
+                "description": "A walking tour through the historic Montmartre district."
+            }
+        ]
+    }
+}

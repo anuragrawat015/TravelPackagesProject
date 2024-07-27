@@ -1,0 +1,59 @@
+{
+    "packageDetails": {
+        "packageId": 5,
+        "title": "Budget-Friendly Paris",
+        "price": 1200,
+        "duration": "7 nights",
+        "description": "Explore Paris on a budget with affordable accommodations and free city tours.",
+        "flights": {
+            "departure": {
+                "airline": "Norwegian Air",
+                "flightNumber": "DY7045",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T21:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-02T10:00:00"
+            },
+            "return": {
+                "airline": "Norwegian Air",
+                "flightNumber": "DY7046",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-08T12:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-08T15:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Budget Hotel Paris",
+                "address": "456 Budget St, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-08",
+                "roomType": "Standard Room",
+                "imageUrl": "https://example.com/images/budgethotelparis.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "Budget",
+            "carType": "Economy",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-08"
+        },
+        "activities": [
+            {
+                "name": "Free Walking Tour",
+                "date": "2024-08-02",
+                "time": "10:00",
+                "description": "A free walking tour of the city's main attractions."
+            },
+            {
+                "name": "Visit to Sacré-Cœur",
+                "date": "2024-08-04",
+                "time": "11:00",
+                "description": "A visit to the beautiful Sacré-Cœur Basilica."
+            }
+        ]
+    }
+}

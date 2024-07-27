@@ -1,0 +1,184 @@
+{
+    "packages": [
+        {
+            "packageId": 1,
+            "title": "Romantic Getaway in Paris",
+            "price": 1500,
+            "duration": "7 nights",
+            "imageUrl": "https://example.com/images/paris1.jpg",
+            "description": "Enjoy a romantic week in Paris with flights, hotel, and a guided tour.",
+            "hotelDetails": {
+                "nights": 7,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Hotel Paris",
+                        "nights": 3
+                    },
+                    {
+                        "name": "Eiffel Hotel",
+                        "nights": 4
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Eiffel Tower Tour",
+                    "day": 2
+                },
+                {
+                    "name": "Louvre Museum Visit",
+                    "day": 3
+                }
+            ]
+        },
+        {
+            "packageId": 2,
+            "title": "Family Adventure in Paris",
+            "price": 2000,
+            "duration": "10 nights",
+            "imageUrl": "https://example.com/images/paris2.jpg",
+            "description": "A fun-filled family adventure including theme park tickets and a stay in a family-friendly hotel.",
+            "hotelDetails": {
+                "nights": 10,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Family Hotel Paris",
+                        "nights": 10
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Disneyland Paris",
+                    "day": 4
+                },
+                {
+                    "name": "Seine River Cruise",
+                    "day": 7
+                }
+            ]
+        },
+        {
+            "packageId": 3,
+            "title": "Cultural Exploration of Paris",
+            "price": 1700,
+            "duration": "8 nights",
+            "imageUrl": "https://example.com/images/paris3.jpg",
+            "description": "Discover the rich culture of Paris with museum passes and historical tours included.",
+            "hotelDetails": {
+                "nights": 8,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Cultural Hotel Paris",
+                        "nights": 4
+                    },
+                    {
+                        "name": "Historic Hotel Paris",
+                        "nights": 4
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Notre-Dame Cathedral Visit",
+                    "day": 2
+                },
+                {
+                    "name": "Montmartre Walking Tour",
+                    "day": 5
+                }
+            ]
+        },
+        {
+            "packageId": 4,
+            "title": "Luxury Stay in Paris",
+            "price": 3000,
+            "duration": "5 nights",
+            "imageUrl": "https://example.com/images/paris4.jpg",
+            "description": "Indulge in luxury with a 5-night stay at a 5-star hotel in Paris, including a private city tour.",
+            "hotelDetails": {
+                "nights": 5,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Luxury Hotel Paris",
+                        "nights": 5
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Private City Tour",
+                    "day": 2
+                },
+                {
+                    "name": "Gourmet Dining Experience",
+                    "day": 4
+                }
+            ]
+        },
+        {
+            "packageId": 5,
+            "title": "Budget-Friendly Paris",
+            "price": 1200,
+            "duration": "7 nights",
+            "imageUrl": "https://example.com/images/paris5.jpg",
+            "description": "Explore Paris on a budget with affordable accommodations and free city tours.",
+            "hotelDetails": {
+                "nights": 7,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Budget Hotel Paris",
+                        "nights": 7
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Free Walking Tour",
+                    "day": 1
+                },
+                {
+                    "name": "Visit to Sacré-Cœur",
+                    "day": 3
+                }
+            ]
+        },
+        {
+            "packageId": 6,
+            "title": "Art and History in Paris",
+            "price": 1800,
+            "duration": "9 nights",
+            "imageUrl": "https://example.com/images/paris6.jpg",
+            "description": "Dive into the art and history of Paris with museum passes and guided historical tours.",
+            "hotelDetails": {
+                "nights": 9,
+                "location": "Paris",
+                "hotels": [
+                    {
+                        "name": "Art Hotel Paris",
+                        "nights": 5
+                    },
+                    {
+                        "name": "Historic Inn Paris",
+                        "nights": 4
+                    }
+                ]
+            },
+            "activities": [
+                {
+                    "name": "Orsay Museum Tour",
+                    "day": 2
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "day": 5
+                }
+            ]
+        }
+    ]
+}

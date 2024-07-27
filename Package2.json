@@ -1,0 +1,59 @@
+{
+    "packageDetails": {
+        "packageId": 2,
+        "title": "Family Adventure in Paris",
+        "price": 2000,
+        "duration": "10 nights",
+        "description": "A fun-filled family adventure including theme park tickets and a stay in a family-friendly hotel.",
+        "flights": {
+            "departure": {
+                "airline": "Delta Airlines",
+                "flightNumber": "DL456",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T10:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-01T22:00:00"
+            },
+            "return": {
+                "airline": "Delta Airlines",
+                "flightNumber": "DL457",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-11T12:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-11T14:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Family Hotel Paris",
+                "address": "321 Family Blvd, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-11",
+                "roomType": "Family Suite",
+                "imageUrl": "https://example.com/images/familyhotelparis.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "Avis",
+            "carType": "Minivan",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-11"
+        },
+        "activities": [
+            {
+                "name": "Disneyland Paris",
+                "date": "2024-08-04",
+                "time": "09:00",
+                "description": "A full-day visit to Disneyland Paris."
+            },
+            {
+                "name": "Seine River Cruise",
+                "date": "2024-08-07",
+                "time": "14:00",
+                "description": "A relaxing cruise on the Seine River, offering views of famous landmarks."
+            }
+        ]
+    }
+}

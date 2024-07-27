@@ -1,0 +1,67 @@
+{
+    "packageDetails": {
+        "packageId": 1,
+        "title": "Romantic Getaway in Paris",
+        "price": 1500,
+        "duration": "7 nights",
+        "description": "Enjoy a romantic week in Paris with flights, hotel, and a guided tour.",
+        "flights": {
+            "departure": {
+                "airline": "Air France",
+                "flightNumber": "AF123",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T18:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-02T06:00:00"
+            },
+            "return": {
+                "airline": "Air France",
+                "flightNumber": "AF124",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-08T10:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-08T12:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Hotel Paris",
+                "address": "123 Paris St, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-04",
+                "roomType": "Deluxe Room",
+                "imageUrl": "https://example.com/images/hotelparis.jpg"
+            },
+            {
+                "name": "Eiffel Hotel",
+                "address": "456 Eiffel St, Paris, France",
+                "checkInDate": "2024-08-04",
+                "checkOutDate": "2024-08-08",
+                "roomType": "Eiffel View Room",
+                "imageUrl": "https://example.com/images/eiffelhotel.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "Hertz",
+            "carType": "Sedan",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-08"
+        },
+        "activities": [
+            {
+                "name": "Eiffel Tower Tour",
+                "date": "2024-08-02",
+                "time": "10:00",
+                "description": "A guided tour of the Eiffel Tower with access to the top floor."
+            },
+            {
+                "name": "Louvre Museum Visit",
+                "date": "2024-08-03",
+                "time": "11:00",
+                "description": "Explore the Louvre Museum with a knowledgeable guide."
+            }
+        ]
+    }
+}

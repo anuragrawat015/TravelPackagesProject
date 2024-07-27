@@ -1,0 +1,59 @@
+{
+    "packageDetails": {
+        "packageId": 4,
+        "title": "Luxury Stay in Paris",
+        "price": 3000,
+        "duration": "5 nights",
+        "description": "Indulge in luxury with a 5-night stay at a 5-star hotel in Paris, including a private city tour.",
+        "flights": {
+            "departure": {
+                "airline": "Emirates",
+                "flightNumber": "EK001",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T22:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-02T10:00:00"
+            },
+            "return": {
+                "airline": "Emirates",
+                "flightNumber": "EK002",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-06T15:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-06T17:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Luxury Hotel Paris",
+                "address": "123 Luxury Ave, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-06",
+                "roomType": "Presidential Suite",
+                "imageUrl": "https://example.com/images/luxuryhotelparis.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "Sixt",
+            "carType": "Luxury Sedan",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-06"
+        },
+        "activities": [
+            {
+                "name": "Private City Tour",
+                "date": "2024-08-02",
+                "time": "10:00",
+                "description": "A private tour of the city's most famous landmarks."
+            },
+            {
+                "name": "Gourmet Dining Experience",
+                "date": "2024-08-04",
+                "time": "19:00",
+                "description": "A dining experience at a Michelin-starred restaurant."
+            }
+        ]
+    }
+}

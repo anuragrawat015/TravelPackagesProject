@@ -1,0 +1,9 @@
+{
+    "searchInputs": {
+        "source": "New York (JFK)",
+        "destination": "Paris",
+        "departureDate": "2024-08-01",
+        "numAdults": 2,
+        "numChildren": 0
+    }
+}
