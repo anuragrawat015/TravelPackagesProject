@@ -1,0 +1,67 @@
+{
+    "packageDetails": {
+        "packageId": 6,
+        "title": "Art and History in Paris",
+        "price": 1800,
+        "duration": "9 nights",
+        "description": "Dive into the art and history of Paris with museum passes and guided historical tours.",
+        "flights": {
+            "departure": {
+                "airline": "British Airways",
+                "flightNumber": "BA112",
+                "departureAirport": "JFK",
+                "departureTime": "2024-08-01T19:00:00",
+                "arrivalAirport": "CDG",
+                "arrivalTime": "2024-08-02T07:00:00"
+            },
+            "return": {
+                "airline": "British Airways",
+                "flightNumber": "BA113",
+                "departureAirport": "CDG",
+                "departureTime": "2024-08-10T11:00:00",
+                "arrivalAirport": "JFK",
+                "arrivalTime": "2024-08-10T13:00:00"
+            }
+        },
+        "hotels": [
+            {
+                "name": "Art Hotel Paris",
+                "address": "101 Art St, Paris, France",
+                "checkInDate": "2024-08-01",
+                "checkOutDate": "2024-08-06",
+                "roomType": "Art Room",
+                "imageUrl": "https://example.com/images/arthotelparis.jpg"
+            },
+            {
+                "name": "Historic Inn Paris",
+                "address": "202 History Rd, Paris, France",
+                "checkInDate": "2024-08-06",
+                "checkOutDate": "2024-08-10",
+                "roomType": "Historic Suite",
+                "imageUrl": "https://example.com/images/historicinnparis.jpg"
+            }
+        ],
+        "carRental": {
+            "company": "National",
+            "carType": "SUV",
+            "pickupLocation": "CDG Airport",
+            "pickupDate": "2024-08-01",
+            "dropoffLocation": "CDG Airport",
+            "dropoffDate": "2024-08-10"
+        },
+        "activities": [
+            {
+                "name": "Orsay Museum Tour",
+                "date": "2024-08-02",
+                "time": "10:00",
+                "description": "A guided tour of the Orsay Museum."
+            },
+            {
+                "name": "Historical Walking Tour",
+                "date": "2024-08-05",
+                "time": "14:00",
+                "description": "A walking tour exploring Paris's historical sites."
+            }
+        ]
+    }
+}
