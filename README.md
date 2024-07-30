@@ -37,12 +37,12 @@ Lack of Personalization: Existing platforms fail to effectively leverage user pr
 
 Cumbersome Search Experience: Finding and selecting the right accommodations, activities, and car rentals near specific locations can be overwhelming and time-consuming.
 
-<hr/>
-
-"Imagine a travel experience curated just for you, eliminating the need for endless googling, planning, and booking. Welcome to Chase Travel, where your dream vacation is just a click away. Simply tell us your desired destination, and we'll take care of the rest. Our new service offers personalized travel packages, seamlessly integrating flights, hotels, activities, and car rentals. Enjoy top-notch site visits, exciting activities, and the best accommodations without lifting a finger. Embrace the joy of travel without the hassle. Let Chase Travel craft your perfect getaway. Travel more, stress less."
-
 Inadequate Integration: Limited integration between various travel services results in a lack of cohesive travel packages, making it difficult for users to plan their trips seamlessly.
 
 Static Recommendations: Traditional travel booking platforms offer static recommendations that do not dynamically adjust based on real-time data or user interactions.
 
+
+<hr/>
+
+"Imagine a travel experience curated just for you, eliminating the need for endless googling, planning, and booking. Welcome to Chase Travel, where your dream vacation is just a click away. Simply tell us your desired destination, and we'll take care of the rest. Our new service offers personalized travel packages, seamlessly integrating flights, hotels, activities, and car rentals. Enjoy top-notch site visits, exciting activities, and the best accommodations without lifting a finger. Embrace the joy of travel without the hassle. Let Chase Travel craft your perfect getaway. Travel more, stress less."
 
