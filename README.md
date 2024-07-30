@@ -2,31 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.1.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-
-
 
 Our website currently allows users to book flights, hotels, cars, and activities individually. To enhance user experience and provide more value, we aim to introduce a new feature that offers pre-planned travel packages. These packages will bundle flights, hotels, and activities into seamless itineraries, simplifying the travel planning process for our users.
 
@@ -66,4 +41,8 @@ Inadequate Integration: Limited integration between various travel services resu
 
 Static Recommendations: Traditional travel booking platforms offer static recommendations that do not dynamically adjust based on real-time data or user interactions.
 
+
+<hr/>
+
+"Imagine a travel experience curated just for you, eliminating the need for endless googling, planning, and booking. Welcome to Chase Travel, where your dream vacation is just a click away. Simply tell us your desired destination, and we'll take care of the rest. Our new service offers personalized travel packages, seamlessly integrating flights, hotels, activities, and car rentals. Enjoy top-notch site visits, exciting activities, and the best accommodations without lifting a finger. Embrace the joy of travel without the hassle. Let Chase Travel craft your perfect getaway. Travel more, stress less."
 
