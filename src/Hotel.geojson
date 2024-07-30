@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hotel Ritz Paris",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Spa", "Restaurant"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3320, 48.8688]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Le Meurice",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Bar", "Fitness Center"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3310, 48.8656]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hôtel de Crillon",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Spa", "Swimming Pool"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3208, 48.8698]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Shangri-La Hotel Paris",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Restaurant", "Fitness Center"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.2891, 48.8605]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hôtel Plaza Athénée",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Spa", "Bar"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3074, 48.8672]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "The Peninsula Paris",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Spa", "Indoor Pool"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3076, 48.8682]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hotel Lutetia",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Restaurant", "Fitness Center"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3328, 48.8505]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hôtel Le Burgundy Paris",
+              "type": "Hotel",
+              "amenities": ["Free WiFi", "Spa", "Restaurant"]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3325, 48.8690]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

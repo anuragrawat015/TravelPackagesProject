@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Eiffel Tower",
+              "type": "Activity",
+              "category": "Landmark"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.2945, 48.8584]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Louvre Museum",
+              "type": "Activity",
+              "category": "Museum"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3364, 48.8606]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Notre-Dame Cathedral",
+              "type": "Activity",
+              "category": "Landmark"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3499, 48.8534]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Musée d'Orsay",
+              "type": "Activity",
+              "category": "Museum"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3264, 48.8600]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Champs-Élysées",
+              "type": "Activity",
+              "category": "Shopping"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3083, 48.8695]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Montmartre",
+              "type": "Activity",
+              "category": "Neighborhood"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3410, 48.8867]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Luxembourg Gardens",
+              "type": "Activity",
+              "category": "Park"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3372, 48.8462]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Palace of Versailles",
+              "type": "Activity",
+              "category": "Historical Site"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.1204, 48.8049]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Sainte-Chapelle",
+              "type": "Activity",
+              "category": "Landmark"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [2.3448, 48.8554]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
